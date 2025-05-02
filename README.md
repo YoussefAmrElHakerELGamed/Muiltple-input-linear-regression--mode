@@ -52,7 +52,6 @@
 project/  
 ├── main_model.py           # Core regression model class  
 ├── test_model.py           # Test scripts with examples  
-├── requirements.txt        # Dependencies (NumPy, pandas, etc.)  
 ├── README.md               # Documentation  
 └── examples/               # Sample datasets (optional)  
 ```
