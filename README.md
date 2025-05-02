@@ -42,12 +42,3 @@ project/
 - scikit-learn and SciPy
 
 > **💡 Tip**: Check out the test file to see example usage patterns!
-
-
-This version:
-1. Uses emojis to make it visually appealing
-2. Focuses on project value rather than implementation
-3. Highlights the test file existence
-4. Keeps technical details minimal
-5. Uses friendly, benefit-oriented language
-6. Maintains clear structure with emoji markers
